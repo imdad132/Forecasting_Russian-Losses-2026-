@@ -65,6 +65,6 @@ The script generates three key visualizations:
 
 ## ⚠️ Disclaimer
 
-  * **Data Source:** This analysis relies on data provided by the General Staff of the Armed Forces of Ukraine.
+  * **Data Source:** This analysis relies on data provided by the General Staff of the Armed Forces of Ukraine. (Parsed by: https://www.kaggle.com/datasets/piterfm/2022-ukraine-russia-war-equipment-losses-oryx?select=losses_russia.csv)
   * **Fog of War:** Conflict data is inherently subject to estimation errors, reporting lags, and the "fog of war." These forecasts are statistical projections based on reported historical patterns, not military intelligence predictions.
 
