@@ -54,29 +54,6 @@ The model projects personnel losses for 2026 based on three different futures fo
   * **Plotly:** Interactive visualization for scenario comparison.
   * **Seaborn/Matplotlib:** Exploratory Data Analysis (EDA) and heatmaps.
 
-## 🚀 Installation & Usage
-
-1.  **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/your-username/russian-losses-forecast.git
-    cd russian-losses-forecast
-    ```
-
-2.  **Install dependencies:**
-
-    ```bash
-    pip install pandas numpy matplotlib seaborn plotly scikit-learn statsmodels nbformat
-    ```
-
-3.  **Add the Data:**
-    Ensure `russian_losses.csv` is in the root directory. (Data source: [Kaggle](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war))
-
-4.  **Run the analysis:**
-
-    ```bash
-    python analysis.py
-    ```
 
 ## 📈 Visualizations
 
